@@ -1,0 +1,88 @@
+[Nombre]Ricardo|Moreno
+[Entrada]8:0:0
+[Salida]17:0:0
+[Especialidad]Escritorio
+[No Empleado]222
+[No Extension]33
+[fechaAuxiliar]22/11/2023
+[Hrs Extra]0
+[Nombre]Ana|Solorzano
+[Entrada]9:0:0
+[Salida]18:0:0
+[Especialidad]Redes
+[No Empleado]101
+[No Extension]22
+[fechaAuxiliar]22/11/2023
+[Hrs Extra]0
+[Nombre]Carlos|Lopez
+[Entrada]8:30:0
+[Salida]17:30:0
+[Especialidad]Escritorio
+[No Empleado]205
+[No Extension]45
+[fechaAuxiliar]22/11/2023
+[Hrs Extra]0
+[Nombre]Sofia|Ramirez
+[Entrada]10:0:0
+[Salida]19:0:0
+[Especialidad]Linux
+[No Empleado]303
+[No Extension]12
+[fechaAuxiliar]22/11/2023
+[Hrs Extra]0
+[Nombre]Juan|Hernandez
+[Entrada]7:45:0
+[Salida]16:45:0
+[Especialidad]Impresoras
+[No Empleado]404
+[No Extension]28
+[fechaAuxiliar]22/11/2023
+[Hrs Extra]0
+[Nombre]Maria|Martinez
+[Entrada]8:0:0
+[Salida]17:0:0
+[Especialidad]Redes
+[No Empleado]509
+[No Extension]18
+[fechaAuxiliar]22/11/2023
+[Hrs Extra]0
+[Nombre]Eduardo|Torres
+[Entrada]9:30:0
+[Salida]18:30:0
+[Especialidad]Servidores
+[No Empleado]612
+[No Extension]39
+[fechaAuxiliar]22/11/2023
+[Hrs Extra]0
+[Nombre]Laura|Diaz
+[Entrada]8:15:0
+[Salida]17:15:0
+[Especialidad]Impresoras
+[No Empleado]707
+[No Extension]55
+[fechaAuxiliar]22/11/2023
+[Hrs Extra]0
+[Nombre]Pedro|Sanchez
+[Entrada]10:15:0
+[Salida]19:15:0
+[Especialidad]Redes
+[No Empleado]808
+[No Extension]27
+[fechaAuxiliar]22/11/2023
+[Hrs Extra]0
+[Nombre]Carmen|Garcia
+[Entrada]7:30:0
+[Salida]16:30:0
+[Especialidad]Linux
+[No Empleado]902
+[No Extension]33
+[fechaAuxiliar]22/11/2023
+[Hrs Extra]0
+[Nombre]Luis|Fernandez
+[Entrada]9:0:0
+[Salida]18:0:0
+[Especialidad]Portatiles
+[No Empleado]1001
+[No Extension]21
+[fechaAuxiliar]22/11/2023
+[Hrs Extra]0
