@@ -16,3 +16,6 @@ add_executable(CallTrackApp2 main.cpp
         src/name.cpp
         src/schedule.cpp
         src/time.cpp)
+
+find_package(raylib REQUIRED)
+target_link_libraries(CallTrackApp2 PRIVATE raylib)
